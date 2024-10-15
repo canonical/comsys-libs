@@ -1,4 +1,0 @@
-ops >= 2.1.1
-pydantic>=1.10,<2
-lightkube==0.15.4
-lightkube-models==1.28.1.4
