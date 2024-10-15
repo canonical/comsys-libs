@@ -1,0 +1,17 @@
+# Copyright 2024 Canonical Ltd.
+# See LICENSE file for licensing details.
+
+name: comsys-libs
+display-name: Commercial Systems libs
+summary: Commercial Systems libraries.
+description: |
+  This library is a collection of handlers for the convenience of the Commercial System team,
+  with methods relating to charms supported by Canonical's internal data platform.
+
+  NOTE: This charm is not meant to be deployed
+docs: https://discourse.charmhub.io/t/comsys-libs-documentation
+source: https://github.com/canonical/comsys-libs
+issues: https://github.com/canonical/comsys-libs/issues
+
+maintainers:
+  - Commercial Systems Team <jaas@lists.launchpad.net>
